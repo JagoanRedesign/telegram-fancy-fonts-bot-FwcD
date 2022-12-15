@@ -57,13 +57,13 @@ dispatcher = updater.dispatcher
 
 ## Commands.
 def c_start(update: Update, ctx: CallbackContext) -> None:
-	"""General info about the bot and command help."""
+	"""Info umum tentang bot dan perintah bantuan."""
 
 	text = (
-		"Hello there! 👋🏻 "
-		"I'm a bot that can help you write messages in cool looking, weird (and beautiful) unicode fonts!\n",
-		"⚠️ Some devices may not support the custom fonts, so keep that in mind when you're sending important text to friends.\n",
-		"You can use me by mentioning me in any chat and typing your message. A list of fonts will appear which you can choose from."
+		"Halo! 👋🏻 "
+		"Saya adalah bot yang dapat membantu Anda menulis pesan dengan font unicode yang terlihat keren, aneh (dan indah).!\n",
+		"⚠️ Beberapa perangkat mungkin tidak mendukung font khusus, jadi ingatlah itu saat Anda mengirim teks penting ke teman.\n",
+		"Anda dapat menggunakan saya dengan menyebut saya di obrolan apa pun dan mengetik pesan Anda. Daftar font akan muncul yang dapat Anda pilih."
 	)
 
 	ctx.bot.send_message(chat_id = update.effective_chat.id, text = escape_markdown('\n'.join(text), 2), parse_mode = ParseMode.MARKDOWN_V2)

@@ -180,21 +180,105 @@
         "fontDigits": "⁰¹²³⁴⁵⁶⁷⁸⁹"
     },
     {
-        "fontName": "Boxed",
-        "fontLower": "⦑a⦒⦑b⦒⦑c⦒⦑d⦒⦑e⦒⦑f⦒⦑g⦒⦑h⦒⦑i⦒⦑j⦒⦑k⦒⦑l⦒⦑m⦒⦑n⦒⦑o⦒⦑p⦒⦑q⦒⦑r⦒⦑s⦒⦑t⦒⦑u⦒⦑v⦒⦑w⦒⦑x⦒⦑y⦒⦑z⦒",
-        "fontUpper": "⦑A⦒⦑B⦒⦑C⦒⦑D⦒⦑E⦒⦑F⦒⦑G⦒⦑H⦒⦑I⦒⦑J⦒⦑K⦒⦑L⦒⦑M⦒⦑N⦒⦑O⦒⦑P⦒⦑Q⦒⦑R⦒⦑S⦒⦑T⦒⦑U⦒⦑V⦒⦑W⦒⦑X⦒⦑Y⦒⦑Z⦒",
-        "fontDigits": "⦑0⦒⦑1⦒⦑2⦒⦑3⦒⦑4⦒⦑5⦒⦑6⦒⦑7⦒⦑8⦒⦑9⦒"
-    },
-    {
-        "fontName": "Diamonds",
-        "fontLower": "a⃟b⃟c⃟d⃟e⃟f⃟g⃟h⃟i⃟j⃟k⃟l⃟m⃟n⃟o⃟p⃟q⃟r⃟s⃟t⃟u⃟v⃟w⃟x⃟y⃟z⃟",
-        "fontUpper": "A⃟B⃟C⃟D⃟E⃟F⃟G⃟H⃟I⃟J⃟K⃟L⃟M⃟N⃟O⃟P⃟Q⃟R⃟S⃟T⃟U⃟V⃟W⃟X⃟Y⃟Z⃟",
-        "fontDigits": "0⃟1⃟2⃟3⃟4⃟5⃟6⃟7⃟8⃟9⃟"
-    },
-    {
         "fontName": "Inverted",
         "fontLower": "ɐqɔpǝɟƃɥıɾʞןɯuodbɹsʇnʌʍxʎz",
         "fontUpper": "∀ᗺƆᗡƎℲ⅁HIſꓘ˥WNOԀტᴚS⊥∩ΛMX⅄Z",
         "fontDigits": "0ƖᘔƐ߈95ㄥ86"
-    }  
+    },
+    {
+    "fontName": "Russian V1",
+    "fontLower": "аъсᴅеfgніᴊкlмйѳрqяѕтuѵшжчz",
+    "fontUpper": "ΛБϾÐΞŦGHłJКŁMЛФPǪЯSTUVШЖЏZ",
+    "fontDigits": ""
+},
+{
+    "fontName": "Canadian Curly",
+    "fontLower": "ᗣᙖᙅᙃᙓᖴᘜᕼꙆᒍКᒐᙏᙁOᕈᕋᖇᔑƮᙀᘎᙎXƳⱿ",
+    "fontUpper": "ᗣᙖᙅᙃᙓᖴᘜᕼꙆᒍКᒐᙏᙁOᕈᕋᖇᔑƮᙀᘎᙎXƳⱿ",
+    "fontDigits": ""
+},
+{
+    "fontName": "Greek",
+    "fontLower": "λϐςdεғɢнιϳκlϻπσρφгsτυvшϰψz",
+    "fontUpper": "ΔƁCDΣFGHIJƘLΜ∏ΘƤႳΓЅƬƱƲШЖΨZ",
+    "fontDigits": "0123456789"
+},
+{
+    "fontName": "Awesome",
+    "fontLower": "αвcɔεғɢнıנκʟмпσρǫяƨтυνшхчz",
+    "fontUpper": "αвcɔεғɢнıנκʟмпσρǫяƨтυνшхчz",
+    "fontDigits": ""
+},
+{
+    "fontName": "Swipe",
+    "fontLower": "ค๒ς๔єŦɠђเןкl๓ภ๏թợгรtยvฬxץz",
+    "fontUpper": "",
+    "fontDigits": ""
+},
+{
+    "fontName": "Math Serif Italic Greek",
+    "fontLower": "𝛼𝑏𝑐𝜕𝜀𝑓𝑔𝘩𝜄𝑗𝜅𝑙𝑚𝜋𝜎𝜌𝑞𝑟𝑠𝜏𝜇𝜈𝜔𝜘𝜑𝑧",
+    "fontUpper": "𝛥𝐵𝐶𝐷𝛴𝐹𝐺𝐻𝐼𝐽𝐾𝐿𝑀𝛱𝛳𝑃𝑄𝛤𝑆𝑇𝑈𝑉𝑊𝑋𝛹𝑍",
+    "fontDigits": "𝟶𝟷𝟸𝟹𝟺𝟻𝟼𝟽𝟾𝟿"
+},
+{
+    "fontName": "1337",
+    "fontLower": "48CD3F9H!JK1MN0PQR57UVWXY2",
+    "fontUpper": "48CD3F9H!JK1MN0PQR57UVWXY2",
+    "fontDigits": "0123456789"
+},
+{
+    "fontName": "African 1978",
+    "fontLower": "ɑɓc̱ɗɛƒgẖɪjƙlmŋɔpq̱ɍs̱ʈʊʋwx̱ƴẕ",
+    "fontUpper": "ⱭƁC̱ƊƐƑGH̱IJƘLMŊƆPQ̱ɌS̱ƮƱƲWX̱ƳẔ",
+    "fontDigits": ""
+},
+{
+    "fontName": "Coptic Fancy",
+    "fontLower": "ⲁⲃⲥ𝖽ⲉ⳨ⳋⲏⳕⳗⲕⳑⲙⲛⲟⳏⲫⲅ⳽ⲧⳙⳳⲱⲭⲩⲹ",
+    "fontUpper": "ⲀⲂⲤꓓⲈ⳨ⳊⲎⳔⳖⲔⳐⲘⲚⲞⳎⲪⲄⲊⲦⳘⳲⲰⲬⲨⲸ",
+    "fontDigits": ""
+},
+{
+    "fontName": "Black Panther",
+    "fontLower": "ΔBCDEҒGĦIJKLMṈOᕈⵕRSΓUVWXɎẔ",
+    "fontUpper": "ΔBCDEҒGĦIJKLMṈOᕈⵕRSΓUVWXɎẔ",
+    "fontDigits": ""
+},
+{
+    "fontName": "Yi Four",
+    "fontLower": "ꁲꋰꀯꂠꈼꄞꁅꍩꂑ꒻ꀗ꒒ꂵꋊꂦꉣꁷꌅꌚꋖꐇꀰꅏꇒꐞꁴ",
+    "fontUpper": "ꁲꋰꀯꂠꈼꄞꁅꍩꂑ꒻ꀗ꒒ꂵꋊꂦꉣꁷꌅꌚꋖꐇꀰꅏꇒꐞꁴ",
+    "fontDigits": ""
+},
+{
+        "fontName": "Heavy",
+        "fontLower": "ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ",
+        "fontUpper": "ΛＢＣＤΞＦＧＨＩＪＫＬＭＮ♢ＰＱＲＳＴＵＶＷＸＹＺ",
+        "fontDigits": "０１２３４５６７８９"
+    },
+    {
+        "fontName": "Little Fancy",
+        "fontLower": "αႦƈԃҽϝɠԋιʝƙʅɱɳσρϙɾʂƚυʋɯxყȥ",
+        "fontUpper": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "fontDigits": "0123456789"
+    },
+    {
+        "fontName": "Fable",
+        "fontLower": "ąცƈɖɛʄɠɧıʝƙƖɱŋơ℘զཞʂɬų۷ῳҳყʑ",
+        "fontUpper": "ąცƈɖɛʄɠɧıʝƙƖɱŋơ℘զཞʂɬų۷ῳҳყʑ",
+        "fontDigits": "0123456789"
+    },
+    {
+        "fontName": "Accent",
+        "fontLower": "åß¢Ðê£ghïjklmñðþqr§†µvwx¥z",
+        "fontUpper": "ÄßÇÐÈ£GHÌJKLMñÖþQR§†ÚVWX¥Z",
+        "fontDigits": "0123456789"
+    },
+    {
+        "fontName": "Linear",
+        "fontLower": "ΛBᄃDΣFGΉIJKᄂMПӨPQЯƧƬЦVЩXYZ",
+        "fontUpper": "ΛBᄃDΣFGΉIJKᄂMПӨPQЯƧƬЦVЩXYZ",
+        "fontDigits": "0123456789"
+    }
 ]
